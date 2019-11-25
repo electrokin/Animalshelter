@@ -2786,6 +2786,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 .footer-area {
   background: #1e1c27;
 }
+.footer-area .single-footer-widget h1 {
+  font-size: 32px;
+  color: #fff;
+  margin-bottom: 20px;
+}
 
 .footer-area .single-footer-widget h6 {
   font-size: 18px;
