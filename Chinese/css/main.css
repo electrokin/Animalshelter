@@ -2563,11 +2563,6 @@ body.mobile-nav-active #mobile-nav-toggle {
   border-radius: 0;
 }
 
-.about-video-right {
-  background: url(../img/video-bg.jpg) no-repeat center;
-  background-size: cover;
-  height: 330px;
-}
 
 .about-video-right .overlay-bg {
   background-color: #000;
